@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+:wave: Here, I'm learning how to use GitHub Pages using the tutorial in their Learning Lab.
